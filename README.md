@@ -1,2 +1,2 @@
-# LeetCode_JS
-LeetCode Javascript Implementation
+# LeetCodeTaskLib
+Library of my LeetCode Online Judge task implementation.
